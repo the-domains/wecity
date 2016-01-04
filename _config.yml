@@ -1,0 +1,28 @@
+name: wecity
+favicon: null
+layout_spectrum: 0.2456232961267233
+typography_spectrum: 0.3493430996313691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46176192606799304
+  lightness: 0.8648239749018103
+  saturation: 0.0282364075537771
+  rhythmicContrast: 0.06526371371001005
+purpose: []
